@@ -8,7 +8,7 @@
  
 I'm a full stack developer
 <p align= "center">
-I am a developer
+  I write Python, JavaScript ...
 
 </p>
 
@@ -26,7 +26,7 @@ HTML, CSS, Javascript, Django
 
 🤔 I'm looking for help with resources 
 
-💬 Ask me about Django
+💬 Ask me about javascript and Django 
 
 📫 How to reach me:<a href="mailto:tobiemmanuel19@gmail.com" target="_blank">tobiemmanuel19@gmail.com</a>
 
